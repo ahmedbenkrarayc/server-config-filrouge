@@ -53,9 +53,9 @@
    ```bash
    sudo apt install apache2 -y
    ```
-3. Install PHP 4.3:
+3. Install PHP 8.3:
    ```bash
-   sudo apt install php4-cli php4-common php4-mysql -y
+   sudo apt install php8.3-cli php8.3-common php8.3-mysql -y
    ```
 4. Install MySQL:
    ```bash
